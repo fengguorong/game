@@ -134,9 +134,9 @@ canvas{
     width:30px;
     height:30px;
     float: left;
-    background: url("../img/life.png");
+    background: url("../img/lifes.png");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: contain;
     margin-right: 10px;
 }
 .score{
